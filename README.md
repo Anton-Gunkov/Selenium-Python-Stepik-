@@ -1,1 +1,1 @@
-# Selenium-Python-Stepik-
+# Stepik, Selenium (Python) course homework
