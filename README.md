@@ -1,2 +1,2 @@
 # Stepik, Selenium (Python) course homework
-... in progress
+# https://stepik.org/course/575/syllabus
