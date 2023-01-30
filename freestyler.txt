@@ -1,5 +1,1 @@
 rakamakafon
-
-def test_input_text(expected_result, actual_result):
-    # ваша реализация, напишите assert и сообщение об ошибке
-    assert int(actual_result) == int(expected_result), f"expected {str(expected_result)}, got {str(actual_result)}"
